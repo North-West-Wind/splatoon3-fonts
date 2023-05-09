@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.53480902"
-     inkscape:cx="632.0013"
+     inkscape:cx="618.91252"
      inkscape:cy="436.60445"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
@@ -39,6 +39,13 @@
      inkscape:label="圖層 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:markers stroke fill"
+       id="rect536"
+       width="210"
+       height="297"
+       x="0"
+       y="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
