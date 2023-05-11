@@ -3,7 +3,7 @@ Decrypted Splatoon 3 fonts.
 ### Download
 Check the [`Decrypted`](https://github.com/North-West-Wind/splatoon3-fonts/tree/main/Decrypted) folder, and download the file you want.
 ### Preview
-![](https://raw.githubusercontent.com/North-West-Wind/splatoon3-fonts/main/preview.svg)
+![](https://raw.githubusercontent.com/North-West-Wind/splatoon3-fonts/main/preview.png)
 ### Tools Used
 - Nintendo Switch
 - Splatoon 3
